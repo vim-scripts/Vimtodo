@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3264
+
+Vimtodo originally started out as a set of syntax highlights for the todo.txt
+(http://www.todotxt.com/) format in vim with a few added extras such as
+subtasks. However, it quickly grew into a more fully featured task management
+system, taking several ideas from Emacs' org-mode.
+
+Github: http://github.com/mivok/vimtodo
